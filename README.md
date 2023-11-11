@@ -1,3 +1,3 @@
 # yolotinyv3_medmask_demo
 
-Helper repo to train tiny yolo v3 on custom data in google colaboratory notebook
+In this project, we use the YOLO algorithm to recognize all the images of cars and humans.
